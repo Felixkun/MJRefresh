@@ -2,14 +2,14 @@
 "MJRefreshHeaderPullingText" = "松开立即刷新";
 "MJRefreshHeaderRefreshingText" = "正在刷新数据中...";
 
-"MJRefreshAutoFooterIdleText" = "点击或上拉加载更多";
-"MJRefreshAutoFooterRefreshingText" = "正在加载更多的数据...";
-"MJRefreshAutoFooterNoMoreDataText" = "已无更多";
+"MJRefreshAutoFooterIdleText" = "";
+"MJRefreshAutoFooterRefreshingText" = "";
+"MJRefreshAutoFooterNoMoreDataText" = "";
 
-"MJRefreshBackFooterIdleText" = "上拉可以加载更多";
-"MJRefreshBackFooterPullingText" = "松开立即加载更多";
-"MJRefreshBackFooterRefreshingText" = "正在加载更多的数据...";
-"MJRefreshBackFooterNoMoreDataText" = "已无更多";
+"MJRefreshBackFooterIdleText" = "";
+"MJRefreshBackFooterPullingText" = "";
+"MJRefreshBackFooterRefreshingText" = "";
+"MJRefreshBackFooterNoMoreDataText" = "";
 
 "MJRefreshHeaderLastTimeText" = "最后更新：";
 "MJRefreshHeaderDateTodayText" = "今天";
