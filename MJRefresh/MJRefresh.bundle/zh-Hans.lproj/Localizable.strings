@@ -2,14 +2,14 @@
 "MJRefreshHeaderPullingText" = "松开立即刷新";
 "MJRefreshHeaderRefreshingText" = "正在刷新数据中...";
 
-"MJRefreshAutoFooterIdleText" = "";
-"MJRefreshAutoFooterRefreshingText" = "";
-"MJRefreshAutoFooterNoMoreDataText" = "";
+"MJRefreshAutoFooterIdleText" = " ";
+"MJRefreshAutoFooterRefreshingText" = " ";
+"MJRefreshAutoFooterNoMoreDataText" = " ";
 
-"MJRefreshBackFooterIdleText" = "";
-"MJRefreshBackFooterPullingText" = "";
-"MJRefreshBackFooterRefreshingText" = "";
-"MJRefreshBackFooterNoMoreDataText" = "";
+"MJRefreshBackFooterIdleText" = " ";
+"MJRefreshBackFooterPullingText" = " ";
+"MJRefreshBackFooterRefreshingText" = " ";
+"MJRefreshBackFooterNoMoreDataText" = " ";
 
 "MJRefreshHeaderLastTimeText" = "最后更新：";
 "MJRefreshHeaderDateTodayText" = "今天";
